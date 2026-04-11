@@ -1,0 +1,12 @@
+bash is powerful and fast
+Linux bash scripting is everywhere
+Python is powerful but bash is simpler
+I love learning bash and linux tools
+grep, awk, and bash are core linux utilities
+BASH can be case sensitive sometimes
+debugging bash scripts is fun and frustrating
+shell scripting (bash) improves productivity
+JavaScript is unrelated but still useful
+learning bash helps with DevOps and automation
+bash bash bash repetition test line
+this line does NOT contain the keyword
